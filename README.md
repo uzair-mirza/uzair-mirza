@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzair-mirza
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning React native
+- 🌱 Front End Developer
 - 💞️ I’m looking to collaborate on project
 - 📫 Reach me on mail
 
