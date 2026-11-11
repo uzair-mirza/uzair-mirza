@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzair-mirza
 - 👀 I’m interested in programing
-- 🌱 Front End Developer
+- 🌱 Software Engineer
 - 💞️ I’m looking to collaborate on project
 - 📫 Reach me on mail
 
